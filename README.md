@@ -46,7 +46,6 @@ mobile-phone-detector
 │
 ├── mobile_phone_detector.py
 ├── phone_detected.png
-├── terminal_output.png
 └── README.md
 ```
 
