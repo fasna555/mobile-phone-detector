@@ -25,10 +25,6 @@ A real-time mobile phone detection system developed using Python, OpenCV, and YO
 
 ![Mobile Phone Detection](phone_detected.png)
 
-### Terminal Output
-
-![Terminal Output](terminal_output.png)
-
 ## How to Run
 
 1. Install dependencies
